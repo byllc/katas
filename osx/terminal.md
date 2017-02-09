@@ -1,6 +1,6 @@
 #### OSX Terminal
 
-This Kata can be run in the MaxOS terminal and many of the commands also work in editors like Atom.io
+This Kata can be run in the MacOS terminal and many of the commands also work in editors like Atom.io
 
 Moving:
   * Option/Alt + Left/Right: Move one word left or Right
